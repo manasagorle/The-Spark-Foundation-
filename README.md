@@ -31,12 +31,6 @@ Before fitting the data, we get the following graph...
 
 
 
-### import plotnine as p
-### dff = p.ggplot(data=df, mapping=p.aes(x=df['Hours'], y='Scores')) 
-### dff + p.geom_line()
-![line1](https://user-images.githubusercontent.com/61930484/116783781-53174f00-aaae-11eb-8166-91a05030b1e6.png)
-
-
 After fitting the data we get a line like this below
 
 
