@@ -34,6 +34,10 @@ Before fitting the data, we get the following graph...
 After fitting the data we get a line like this below
 
 
+
+
+
 ![line_lr](https://user-images.githubusercontent.com/61930484/116783904-fb2d1800-aaae-11eb-8c69-4184f2367417.png)
+
 
 
