@@ -39,5 +39,11 @@ After fitting the data we get a line like this below
 
 ![line_lr](https://user-images.githubusercontent.com/61930484/116783904-fb2d1800-aaae-11eb-8c69-4184f2367417.png)
 
-
+Coming to Task2 
+Its based on Unsupervised Learning Algorithm 
+kMeans Algorithm is nothing but just clustering of data based on the centroids 
+How does this work?
+What simple statistics do we use 
+Its too simple 
+Euclidean distance 
 
