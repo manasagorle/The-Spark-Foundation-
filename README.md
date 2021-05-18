@@ -46,4 +46,7 @@ How does this work?
 What simple statistics do we use 
 Its too simple 
 Euclidean distance 
+KMeans clustering in statistical terms is simple approach to simplify partitioning data into k clusters with non overlapping property by simply giving the desired number of clusters.
+Each observation belongs to only one cluster ie. no observation belongs to more than one cluster
+
 
