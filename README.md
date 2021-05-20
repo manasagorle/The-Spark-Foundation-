@@ -40,6 +40,8 @@ After fitting the data we get a line like this below
 ![line_lr](https://user-images.githubusercontent.com/61930484/116783904-fb2d1800-aaae-11eb-8c69-4184f2367417.png)
 
 Coming to Task2 
+
+
 Its based on Unsupervised Learning Algorithm 
 kMeans Algorithm is nothing but just clustering of data based on the centroids 
 How does this work?
@@ -49,4 +51,4 @@ Euclidean distance
 KMeans clustering in statistical terms is simple approach to simplify partitioning data into k clusters with non overlapping property by simply giving the desired number of clusters.
 Each observation belongs to only one cluster ie. no observation belongs to more than one cluster
 
-
+The maximum  distances from observations to the centroid of each cluster
