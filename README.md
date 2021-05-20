@@ -52,3 +52,4 @@ KMeans clustering in statistical terms is simple approach to simplify partitioni
 Each observation belongs to only one cluster ie. no observation belongs to more than one cluster
 
 The maximum  distances from observations to the centroid of each cluster
+Centroid finds its clusters and group them into thiers
